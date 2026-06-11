@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Chokepoint Investing"
+  short_description: "Apply Serenity-style supply-chain chokepoint investing research."
+  default_prompt: "Use Serenity-style chokepoint investing to analyze a company, sector, or trade idea."
